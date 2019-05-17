@@ -1,0 +1,12 @@
+﻿  Snake.cpp
+c:\users\espina\source\repos\snake\snake.cpp(118): warning C4018: '>': signed/unsigned mismatch
+c:\users\espina\source\repos\snake\snake.cpp(121): warning C4018: '>': signed/unsigned mismatch
+c:\users\espina\source\repos\snake\snake.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\espina\source\repos\snake\snake.cpp(130): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  main.cpp
+  Generating Code...
+  Snake.vcxproj -> C:\Users\ESPINA\source\repos\Snake\Debug\Snake.exe
